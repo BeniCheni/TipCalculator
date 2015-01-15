@@ -93,8 +93,7 @@
                                         <exclude reference="c7N-Ke-wlQ"/>
                                     </mask>
                                 </variation>
-                                <variation key="heightClass=regular-widthClass=compact" misplaced="YES">
-                                    <rect key="frame" x="186" y="86" width="49" height="20"/>
+                                <variation key="heightClass=regular-widthClass=compact">
                                     <mask key="constraints">
                                         <include reference="c7N-Ke-wlQ"/>
                                     </mask>
